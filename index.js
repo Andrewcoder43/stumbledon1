@@ -332,8 +332,6 @@ const websiteList = [
 "https://dispo.fun/",
 "https://spyballoonsim.hornetsnestguild.com/",
 "https://apps.apple.com/app/stopthemadness-mobile/id1583082931?mt=8",
-"https://www.volantai.org/",
-"https://drive.google.com/drive/u/0/folders/1mxwRBAa04OnDPcfkLZC1t9nB1bEM2Hqh",
 "https://legacybox.com",
 "https://readwise.io/read",
 "https://explodingtopics.com/",
