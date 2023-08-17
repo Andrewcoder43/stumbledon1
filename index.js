@@ -1,4 +1,5 @@
 const websiteList = [
+"https://24HourHomepage.com",
 "https://wtfhappenedin1971.com/",
 "https://scp-wiki.wikidot.com/",
 "https://www.rijksmuseum.nl/en/johannes-vermeer",
