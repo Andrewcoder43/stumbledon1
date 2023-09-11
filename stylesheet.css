@@ -94,7 +94,3 @@ body {
       /* Centers the image horizontally */
       border-radius: 10px;
       /* Adds a rounded border to the image */ }
-  .navbar-nav .nav-link,
-  .navbar-brand {
-      color: white;
-  }

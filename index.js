@@ -1544,8 +1544,9 @@ document.querySelector('.glow-on-hover').addEventListener('click', function() {
 'http://www.auz.github.io/Bug/',
 'http://500.chromeexperiments.com',
 'http://www.11foot8.com/',
-'',
 ];
     var randomWebsite = randomWebsites[Math.floor(Math.random() * randomWebsites.length)];
     window.open(randomWebsite, '_blank');
 });
+
+ 
